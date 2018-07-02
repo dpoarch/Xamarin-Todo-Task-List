@@ -1,0 +1,2 @@
+C:\Users\Gray\Desktop\Todo\Todo.Android\obj\Debug\Todo.Android.csprojResolveAssemblyReference.cache
+C:\Users\Gray\Desktop\Todo\Todo.Android\obj\Debug\Todo.Android.csproj.CoreCompileInputs.cache
